@@ -23,7 +23,7 @@
 
 `--windowed`Флаг отвечает за то чтоб при запуске программы не было консоли
     
-И программу для упаковки .exe в installer   **NSIS**
+И программу для упаковки **.exe** в installer   **NSIS**
 
 	https://sourceforge.net/projects/nsis/ 
 
