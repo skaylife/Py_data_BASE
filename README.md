@@ -16,7 +16,7 @@
 *Чтоб не возникали проблемы при работе с* `Python 3.8` установите репозиторий
 
 	pip install https://github.com/pyinstaller/pyinstaller/archive/develop.zip
-Дальше заходим в директорию с прогрммой пример `main.py`
+Дальше заходим в директорию с программой на примере скрипта `main.py`
    И пишем в cmd `pyinstaller --windowed -F main.py`
    
 `-F` Флаг отвечает за то чтобы не было лишних файлов с .exe 
