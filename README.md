@@ -17,9 +17,9 @@
 
 	pip install https://github.com/pyinstaller/pyinstaller/archive/develop.zip
 Дальше заходим в директорию с программой на примере скрипта `main.py`
-   И пишем в cmd `pyinstaller --windowed -F main.py`
+   И пишем в **cmd** `pyinstaller --windowed -F main.py`
    
-`-F` Флаг отвечает за то чтобы не было лишних файлов с .exe 
+`-F` Флаг отвечает за то чтобы не было лишних файлов с ❤️**.exe** 
 
 `--windowed`Флаг отвечает за то чтоб при запуске программы не было консоли
     
