@@ -32,7 +32,7 @@
 
 	https://sourceforge.net/projects/nsis/ 
 
-В этой программе выбираем `Installer based on .ZIP file` - Нужно то что мы хотим упаковать в inataller запокавать в **zip архив**.
+В этой программе выбираем `Installer based on .ZIP file` - То что мы хотим упаковать в inataller перед этим нужно запокавать в **zip архив**.
 
 *При создании использовался* `Python 3.8` и `PyCharm Professionals licenses`
 
