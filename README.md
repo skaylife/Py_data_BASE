@@ -36,6 +36,8 @@
 
 *При создании использовался* `Python 3.8` и `PyCharm Professionals licenses`
 
+*Eng repository* `https://github.com/bradtraversy/part_manager`
+
 ### Screenshot
 
 [DataBase 1](https://i.imgur.com/p0GcQNG.png "DataBase 1")
